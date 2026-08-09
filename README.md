@@ -41,7 +41,7 @@ python scanner.py
 You will be prompted:
 
 ```
-Enter target IP or domain: 192.168.1.1
+Enter target IP or domain: 
 Enter the ports you want to scan(default ports if left empty):
 ```
 
